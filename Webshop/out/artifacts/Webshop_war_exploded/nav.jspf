@@ -1,0 +1,11 @@
+
+<nav>
+    <ul>
+        <li><a href="Controller?command=Home">Home</a></li>
+        <li><a href="Controller?command=OverviewProduct">Product Overview</a></li>
+        <li><a href="addProduct.jsp">Add Product</a></li>
+        <li><a href="Controller?command=OverviewPerson">Person Overview</a></li>
+        <li><a href="Controller?command=ShowCart">My Cart</a></li>
+        <li><a href="signUp.jsp">Sign up</a></li>
+    </ul>
+</nav>
